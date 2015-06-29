@@ -43,4 +43,3 @@ gem 'spring',        group: :development
 gem 'capistrano', '~> 2.13'
 gem 'capistrano_colors'
 gem 'capistrano_rsync_with_remote_cache'
-gem "webshot"
